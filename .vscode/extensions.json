@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "github.copilot",
+        "coder.coder-remote",
+        "github.codespaces",
+        "github.vscode-github-actions"
+    ]
+}
